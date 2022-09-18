@@ -1,0 +1,6 @@
+client@1.0.0 /home/andrus/cosmos/b9-checkers-academy-draft/client
+├── UNMET DEPENDENCY @cosmjs/stargate@^0.28.0
+├── UNMET DEPENDENCY @cosmjs/utils@^0.28.0
+├── UNMET DEPENDENCY @types/lodash@^4.14.181
+└── UNMET DEPENDENCY lodash@^4.17.21
+
